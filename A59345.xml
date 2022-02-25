@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some songs as they are sung in The fairy queen set to music by Mr. Henry Purcell.</title>
+            <title>Fairy queen. Selections</title>
+            <author>Purcell, Henry, 1659-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59345</idno>
+            <idno type="STC">Wing S2718</idno>
+            <idno type="STC">ESTC R183754</idno>
+            <idno type="EEBO-CITATION">16412403</idno>
+            <idno type="OCLC">ocm 16412403</idno>
+            <idno type="VID">105378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some songs as they are sung in The fairy queen set to music by Mr. Henry Purcell.</title>
+                  <title>Fairy queen. Selections</title>
+                  <author>Purcell, Henry, 1659-1695.</author>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>1 score (12 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Heptinstall for the author, and are to be sold by John Carr ... by Henry Playford at his shop ..., and at the Theatre in Dorset-Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The libretto of The fairy queen was written by Elkanah Settle--Cf. Cambr. Bib. Eng. Lit.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs (High voice)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105378:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:105378:1"/>
+            <!-- PDF PAGE 1 -->
+            <p>SOME SELECT SONGS <hi>As they are Sung in the</hi> FAIRY QUEEN.</p>
+            <p>Set to Muſick, By Mr. <hi>HENRY PURCELL.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinſtall,</hi> for the Author; <hi>and are</hi> to be Sold by <hi>John Carr,</hi> at the <hi>Inner-Temple Gate</hi> near <hi>Tem<g ref="char:EOLhyphen"/>ple-Barr,</hi> by <hi>Henry Playford</hi> at his Shop in the <hi>Temple,</hi> and at the Theatre in <hi>Dorſet-Garden.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:105378:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:105378:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>Firſt Song ſung in the ſecond Act.</head>
+            <byline>by Mrs. <hi>Aliff.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>SIng, ſing whilſt we trip it, trip, trip it, trip, trip it up╌on the Green:
+But no ill Vapours riſe or fall, but no ill Vapours riſe or fall, no
+Nothing, no Nothing of╌fend, no Nothing of╌fend our Fai╌ry Queen; no
+Nothing, no Nothing, no Nothing, no Nothing of╌fend our Fai╌ry Queen; no
+Nothing, no Nothing, no Nothing, no Nothing of╌fnd our Fai╌ry Queen.</p>
+         </div>
+         <div type="song">
+            <pb n="4" facs="tcp:105378:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>Second Song in the Second Act.</head>
+            <byline>Sung by Mrs. <hi>Dyer.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>I am come to lock all faſt, Love with╌out me can╌not laſt:
+Love like Counſells of the Wiſe, muſt be hid from Vul╌;gar Eyes;
+'Tis ho╌ly, 'tis ho╌ly, and we muſt, we muſt Conceal it;
+they pro╌fane it, they pro╌fane it who re╌veal it; they pro╌fane it, they pro╌fane it who re╌veal it.</p>
+         </div>
+         <div type="song">
+            <pb n="5" facs="tcp:105378:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>Third Song in the 2d. Act.</head>
+            <byline>Sung by Mr. <hi>Freemam.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>ONE Charming Night gives more╌ De╌lights then a hundred
+then a hundred, a hundred luckey days. Night and I im╌proves the
+taſt make the Plea╌ſures lon╌ger
+laſt a thouſand, thouſand, thouſand, thouſand, thouſand ſe╌v'ral ways.</p>
+         </div>
+         <div type="song">
+            <head>Firſt Song in the 3d: Act</head>
+            <byline>Sung by Mrs. <hi>Dyer:</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>IF Loves a ſweet Paſſion, why does it tor╌ment, if a bitter oh
+<pb n="6" facs="tcp:105378:4"/>
+               <!-- PDF PAGE 4 -->tell me whence comes my con╌tent? Since I ſuf╌fer with Pleaſure why
+<gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>ſhould I com╌plain, or grieve at my Fate when I know 'tis in vain?
+yet ſo pleaſing the Pain is, ſo ſoft is the Dart, that at once it both
+wounds me and tickles my Heart.</p>
+            <lg>
+               <l>I preſs her hand gently, look languiſhing down,</l>
+               <l>And by Paſſionate ſilence I make my Love known;</l>
+               <l>But Oh! how I'm bleſt when ſo kind ſhe does prove,</l>
+               <l>By ſome willing miſtake, to diſcover her Love;</l>
+               <l>When in ſtriving to hide, ſhe returns all her Flame,</l>
+               <l>And our Eyes tell each other, what neither dare Name.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="7" facs="tcp:105378:4"/>
+            <!-- PDF PAGE 4 -->
+            <head>Second Song in the 3d. Act,</head>
+            <byline>Sung by Mrs. <hi>Buttler.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>WHen I have often heard young Maids complaining, that when Men promiſe moſt
+they moſt de╌ceive, then I thought none of them worthy my gaining,
+and what they ſwore I would never be╌lieve, but when ſo humbly one made his Ad<g ref="char:EOLhyphen"/>dreſſes,
+with Looks ſo ſoft, and with Language ſo kind, I thought it Sin to re<g ref="char:EOLhyphen"/>fuſe
+his Ca╌reſ╌ſes, Nature ore╌came and I ſoon chang'd my mind.</p>
+            <lg>
+               <l>Should he employ all his Arts in deceiving,</l>
+               <l>Stretch his Invention and quite crack his Brain,</l>
+               <l>I find ſuch Charms, ſuch true Joys in believing,</l>
+               <l>I'le have the pleaſure let him have the pain.</l>
+               <l>If he proves perjur'd I ſhall not be cheated,</l>
+               <l>He may deceive himſelf but never me,</l>
+               <l>'Tis what I look for, and ſhan't be defeated,</l>
+               <l>For I'm as falſe and Inconſtant as he.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="8" facs="tcp:105378:5"/>
+            <!-- PDF PAGE 5 -->
+            <head>Third Song in the 3d. Act.</head>
+            <byline>Sung by Mr. <hi>Freeman.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>A thouſand, thouſand, thouſand, thouſand,
+thouſand ways we'll find to en╌ter╌tain the hours, A
+hours, no two ſhall ere be known, no two ſhall ere be known ſo kind, ſo kind,
+ſo kind, ſo kind, no two ſhall ere be known ſo kind, no
+Life ſo bleſt as ours, no Life ſo bleſt as ours, ſo bleſt as
+ours, ſo bleſt as ours, as ours, as ours, no Life ſo bleſt, ſo bleſt as ours, ſo
+<pb n="9" facs="tcp:105378:5"/>
+               <!-- PDF PAGE 5 -->bleſt as ours, ſo bleſt as ours, as ours, as ours, no Life ſo bleſt, ſo bleſt as
+ours, ſo bleſt as ours, ſo bleſt as ours.</p>
+         </div>
+         <div type="song">
+            <head>Firſt Song in the Fourth Act.</head>
+            <byline>Sung by Mrs. <hi>Butler.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>THus the e╌ver gratefull Spring, Thus the e╌ver gratefull
+Spring does her yearly Tribute bring, does her yearly Tri╌bute
+bring, does her yearly Tri╌bute bring, does her yearly Tri╌bute
+<pb n="10" facs="tcp:105378:6"/>
+               <!-- PDF PAGE 6 -->bring; all your ſweets be╌fore him
+lay, all your ſweets be╌fore him lay, then round his Al╌tar ſing and play; all, all,
+all, all, all, all, all your ſweets before him lay, then round his Al╌tar
+ſing and play, then round—
+his Al╌tar ſing and play: Thus the
+ever gratefull Spring does her yearly Tri╌bute bring, does her yearly Tri╌bute
+<pb n="11" facs="tcp:105378:6"/>
+               <!-- PDF PAGE 6 --> bring, does her yearly Tri╌bute bring,
+does her yearly Tri╌bute bring.</p>
+         </div>
+         <div type="song">
+            <head>The ſecond Song in the <hi>4th</hi> Act,</head>
+            <byline>ſung by Mr. <hi>Pate.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>HEre's the Summer ſprightly, gay, ſmi╌ling, wanton, freſh and
+fair: A╌dorn'd with all the flowr's of <hi>May,</hi> whoſe va╌rious
+ſweets per╌fume the Air, a╌dorn'd with all the flowr's of
+<pb n="12" facs="tcp:105378:7"/>
+               <!-- PDF PAGE 7 -->
+               <hi>May,</hi> whoſe va╌rious ſweets per╌fume the Air.</p>
+         </div>
+         <div type="song">
+            <head>Song in the Fifth Act.</head>
+            <byline>Sung by Mrs. <hi>Aliff.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>Thus hap╌py and free, thus treat╌ed are we, with
+Na╌ture's chiefeſt De╌lights: We ne╌ver cloy, but re╌new our
+Joy, and one bliſs a╌no╌ther, and one bliſs a╌no╌ther In╌vites.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
